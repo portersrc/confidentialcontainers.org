@@ -126,7 +126,7 @@ params:
 
   # # Enable Lunr.js offline search
   # # TODO: Should we enable this instead?
-  # offlineSearch: false
+  offlineSearch: true
 
   # # Enable syntax highlighting and copy buttons on code blocks with Prism
   # # TODO: Should we enable this?
